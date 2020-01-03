@@ -61,6 +61,8 @@
 
 ---
 [Analyzing the NYC Subway Dataset with Python](https://nbviewer.jupyter.org/github/cyuancheng/Intro-Data-Science/blob/master/AnalyzingNYCSubwayDataset.ipynb)
+Used statistical analysis and exploratory data analysis to discover interesting patterns about the New York City Subway and discovered more people entering NYC Subway in rainy days.
+
 <img src="images/photo_nyc.png" width="400" height="200">
 
 
