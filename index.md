@@ -60,7 +60,7 @@ Conducted exploratory data analysis using R to explore underlying relationships 
 [Wrangling Openstreetmaps Data with MongoDB](https://github.com/cyuancheng/Data-Wrangle-Openstreetmaps-Data/)
 <br>Used MongoDB to wrangle, clean and explore the OpenStreetMap (OSM) data in Santa Barbara County, CA.<br>
 
-<img src="images/photo_mongodb.png" width="400" height="200">
+<img src="images/photo_mongodb.jpg" width="400" height="200">
 
 ---
 [Analyzing NYC Subway Dataset with Python](https://nbviewer.jupyter.org/github/cyuancheng/Intro-Data-Science/blob/master/AnalyzingNYCSubwayDataset.ipynb)
