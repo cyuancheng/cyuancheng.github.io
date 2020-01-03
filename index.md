@@ -61,8 +61,7 @@
 
 ---
 [Analyzing the NYC Subway Dataset with Python](https://nbviewer.jupyter.org/github/cyuancheng/Intro-Data-Science/blob/master/AnalyzingNYCSubwayDataset.ipynb)
-<img src="images/images/photo_nyc.png width="200 height="400"
->
+<img src="images/photo_nyc.png" width="200" height="400">
 
 
 
