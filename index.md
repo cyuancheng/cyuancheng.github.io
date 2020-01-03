@@ -10,8 +10,9 @@
 <img src="images/photo_divorce.png" width="400" height="200">
 
 ---
-[Disaster Response Pipeline](/Project_2)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[AI Pipeline for Disaster Response](https://github.com/cyuancheng/Disaster-Response-Pipeline)
+<br>Created ETL and machine learning pipeline from real natural disaster message data. Developed a web app where a relief agent can input a new message to get classification result in a real time.<br>
+<img src="images/photo_disaster.png" width="400" height="200">
 
 ---
 [Predict Customer Churn](/Project_3)
