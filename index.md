@@ -15,8 +15,11 @@
 <img src="images/photo_disaster.png" width="400" height="200">
 
 ---
-[Predict Customer Churn](/Project_3)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Predict Customer Churn with PySpark](https://github.com/cyuancheng/Sparkify)
+
+<br>[(Medium posting)](https://medium.com/@cyuancheng/use-machine-learning-to-predict-customer-churn-9281cc249c7a)
+<br> Prepossessed, cleaned, and transformed 250 Mb of customer data from music streaming platform using PySpark. Developed a predictive model from  feature engineering using Random Forest and Gradient Boosting Tree in Spark MLlib. Feature importance by the model suggested the customer's lifetime with the service is the strongest indicator for churn.<br>
+<img src="images/photo_churn.png" width="400" height="200">
 
 ---
 [Finding Donors for CharityML](/Project_3)
