@@ -27,14 +27,10 @@
 
 ---
 [Identify Customer Segments (Unsupervised Learning)](https://github.com/cyuancheng/Identify_Customer_Segments/blob/master/Identify_Customer_Segments.ipynb)
-<br>Used unsupervised learning (PCA and Kmeans) to identify segments of the population that form the core customer base for a mail-order sales company in Germany. Both general population and customers population were compared. Segments were identified that could be target for future marketing campaigns or to be considered outside of company interests.<br>
+<br>Used unsupervised learning (PCA and Kmeans) to identify segments of the population that form the core customer base for a mail-order sales company in Germany. By comparing general population and customers population, segments were identified that could be target for future marketing campaigns or to be considered outside of company interests.<br>
 <img src="images/photo_segment.png" width="400" height="200">
 
-
 ---
-[Recommendation system with IBM](/Project_3)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 
 ### Deep Learning
 ---
@@ -58,7 +54,13 @@
 [Yelp review](/Project_7)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-## Data Analysis / Visulization
+### Recommendation System
+[Buid a Recommendation System on IBM Cloud](https://github.com/cyuancheng/recommendation_with_IBM)
+<br>Analyzed the interactions that users have with articles on the IBM Watson Studio platform, and made recommendations of articles they will like<br>
+
+---
+
+### Data Analysis / Visulization
 
 [Analyzing Zillow Housing Data with R](http://rpubs.com/cyuancheng/ZillowHousing)
 <br>Conducted exploratory data analysis using R to explore underlying relationships of the residential real estate Zellow data and Census data in USA between 1996 and 2014.<br>
