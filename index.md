@@ -56,12 +56,13 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Wrangling Openstreetmaps Data using MongoDB](http://cyuancheng.github.io/Data-Wrangle-Openstreetmaps-Data/)
+[Wrangling Openstreetmaps Data using MongoDB](https://github.com/cyuancheng/Data-Wrangle-Openstreetmaps-Data/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br>Used MongoDB to wrangle, clean and explore the OpenStreetMap (OSM) data in Santa Barbara County, CA.<br>
 
 ---
 [Analyzing the NYC Subway Dataset with Python](https://nbviewer.jupyter.org/github/cyuancheng/Intro-Data-Science/blob/master/AnalyzingNYCSubwayDataset.ipynb)
-Used statistical analysis and exploratory data analysis to discover interesting patterns about the New York City Subway and discovered more people entering NYC Subway in rainy days.
+<br>Used statistical analysis and exploratory data analysis to discover interesting patterns about the New York City Subway and discovered more people entering NYC Subway in rainy days.<br>
 
 <img src="images/photo_nyc.png" width="400" height="200">
 
