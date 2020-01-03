@@ -4,8 +4,10 @@
 
 ### Machine Learning
 
-[Is a Higher Divorce Rate Among Celebrities?](/Project_1)
-<img src="images/photo_nyc.png?raw=true"/>
+[Is a Higher Divorce Rate Among Celebrities?](https://github.com/cyuancheng/BlogPost_Celebrity_Divorce)
+<br>[Medium posting](https://medium.com/@cyuancheng/is-a-high-divorce-rate-among-celebrities-b87a9b9bdf28)<br>
+<br>Wrangled Wikipedia data of Hollyword's celebrities and used Logistic Regression and Random Forest to predict celebrities' divorce with 70% accuracy.<br>
+<img src="images/photo_divoice.png" width="400" height="200">
 
 ---
 [Disaster Response Pipeline](/Project_2)
@@ -53,7 +55,7 @@
 ## Data Analysis / Visulization
 
 [Analyzing Zillow Housing Data with R](http://rpubs.com/cyuancheng/ZillowHousing)
-Conducted exploratory data analysis using R to explore underlying relationships of the residential real estate Zellow data and Census data in USA between 1996 and 2014.
+<br>Conducted exploratory data analysis using R to explore underlying relationships of the residential real estate Zellow data and Census data in USA between 1996 and 2014.<br>
 <img src="images/photo_zillow.png" width="400" height="200">
 
 ---
