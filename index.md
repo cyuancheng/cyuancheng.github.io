@@ -5,7 +5,7 @@
 ### Machine Learning
 
 [Is a Higher Divorce Rate Among Celebrities?](/Project_1)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/photo_nyc.png?raw=true"/>
 
 ---
 [Disaster Response Pipeline](/Project_2)
@@ -61,7 +61,7 @@
 
 ---
 [Analyzing the NYC Subway Dataset with Python](https://nbviewer.jupyter.org/github/cyuancheng/Intro-Data-Science/blob/master/AnalyzingNYCSubwayDataset.ipynb)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/images/photo_nyc.png | width=480"/>
 
 
 
