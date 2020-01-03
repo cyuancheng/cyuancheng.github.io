@@ -1,43 +1,68 @@
-## Data Science Portfolio (Selected)
+## Data Science Portfolio 
 
 ---
 
 ### Machine Learning
 
-[Project 1. Is a Higher Divorce Rate Among Celebrities?](/sample_page)
+[Is a Higher Divorce Rate Among Celebrities?](/Project_1)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Disaster Response Pipeline](/Project_2)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Predict Customer Churn](/Project_3)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Finding Donors for CharityML](/Project_3)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Identify Customer Segments](/Project_3)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Recommendation system with IBM](/Project_3)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ### Deep Learning
+---
+[Predict Stock Price with Buy or Sell Signal](/Project_4)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
+[Lawn Weed Detector using Computer Vision](/Project_5)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 ### Natural Language Processing
 
-[Project 1 Title](/sample_page)
+[](/Project_6)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Twitter review](/Project_7)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
+[Yelp review](/Project_7)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+## Data Analysis / Visulization
+
+[Analyzing Zillow Real Estate Data with R](http://rpubs.com/cyuancheng/ZillowHousing)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Wrangling Openstreetmaps Data using MongoDB](http://cyuancheng.github.io/Data-Wrangle-Openstreetmaps-Data/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Analyzing the NYC Subway Dataset with Python](https://nbviewer.jupyter.org/github/cyuancheng/Intro-Data-Science/blob/master/AnalyzingNYCSubwayDataset.ipynb)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 
 
