@@ -38,8 +38,9 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Lawn Weed Detector using Computer Vision](/Project_5)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Lawn Weed Detector using Computer Vision](https://github.com/cyuancheng/Lawn_Weed)
+<br>Collected and labeled imaging data of common weeds from Google Image, and trained the data using Convolutional Neural Network (CNN) with 95% accuracy.<br>
+<img src="images/photo_weed.png" width="400" height="200">
 
 ---
 ### Natural Language Processing
@@ -50,9 +51,13 @@
 ---
 [Twitter review](/Project_7)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 ---
+
 [Yelp review](/Project_7)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 
 ### Recommendation System
 [Buid a Recommendation System on IBM Cloud](https://github.com/cyuancheng/recommendation_with_IBM)
@@ -69,13 +74,11 @@
 ---
 [Wrangling Openstreetmaps Data with MongoDB](https://github.com/cyuancheng/Data-Wrangle-Openstreetmaps-Data/)
 <br>Used MongoDB to wrangle, clean and explore the OpenStreetMap (OSM) data in Santa Barbara County, CA.<br>
-
 <img src="images/photo_mongodb.jpg" width="400" height="200">
 
 ---
 [Analyzing NYC Subway Dataset with Python](https://nbviewer.jupyter.org/github/cyuancheng/Intro-Data-Science/blob/master/AnalyzingNYCSubwayDataset.ipynb)
 <br>Used statistical analysis and exploratory data analysis to discover interesting patterns about the New York City Subway and discovered more people entering NYC Subway in rainy days.<br>
-
 <img src="images/photo_nyc.png" width="400" height="200">
 
 
