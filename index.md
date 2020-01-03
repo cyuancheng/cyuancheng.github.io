@@ -24,9 +24,12 @@
 [Finding Donors for CharityML (Supervised Learning)](https://github.com/cyuancheng/Finding-Donors-for-CharityML/blob/master/finding_donors.ipynb)
 <br>Built a machine learning model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.<br>
 <img src="images/photo_donor.png" width="400" height="200">
+
 ---
-[Identify Customer Segments](/Project_3)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Identify Customer Segments (Unsupervised Learning)](https://github.com/cyuancheng/Identify_Customer_Segments/blob/master/Identify_Customer_Segments.ipynb)
+<br>Used unsupervised learning (PCA and Kmeans) to identify segments of the population that form the core customer base for a mail-order sales company in Germany. Both general population and customers population were compared. Segments were identified that could be target for future marketing campaigns or to be considered outside of company interests.<br>
+<img src="images/photo_segment.png" width="400" height="200">
+
 
 ---
 [Recommendation system with IBM](/Project_3)
