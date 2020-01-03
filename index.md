@@ -4,7 +4,7 @@
 
 ### Machine Learning
 
-[Project 1 Title](/sample_page)
+[Project 1. Is a Higher Divorce Rate Among Celebrities?](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
