@@ -16,15 +16,14 @@
 
 ---
 [Predict Customer Churn with PySpark](https://github.com/cyuancheng/Sparkify)
-
 <br>[(Medium posting)](https://medium.com/@cyuancheng/use-machine-learning-to-predict-customer-churn-9281cc249c7a)
-<br> Prepossessed, cleaned, and transformed 250 Mb of customer data from music streaming platform using PySpark. Developed a predictive model from  feature engineering using Random Forest and Gradient Boosting Tree in Spark MLlib. Feature importance by the model suggested the customer's lifetime with the service is the strongest indicator for churn.<br>
+<br>Prepossessed, cleaned, and transformed 250 Mb of customer data from music streaming platform using PySpark. Developed a predictive model from  feature engineering using Random Forest and Gradient Boosting Tree in Spark MLlib. Feature importance by the model suggested the customer's lifetime with the service is the strongest indicator for churn.<br>
 <img src="images/photo_churn.png" width="400" height="200">
 
 ---
-[Finding Donors for CharityML](/Project_3)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[Finding Donors for CharityML (Supervised Learning)](https://github.com/cyuancheng/Finding-Donors-for-CharityML/blob/master/finding_donors.ipynb)
+<br>Built a machine learning model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.<br>
+<img src="images/photo_donor.png" width="400" height="200">
 ---
 [Identify Customer Segments](/Project_3)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
