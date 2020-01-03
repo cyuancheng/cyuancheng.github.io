@@ -52,16 +52,18 @@
 
 ## Data Analysis / Visulization
 
-[Analyzing Zillow Real Estate Data with R](http://rpubs.com/cyuancheng/ZillowHousing)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Analyzing Zillow Housing Data with R](http://rpubs.com/cyuancheng/ZillowHousing)
+Conducted exploratory data analysis using R to explore underlying relationships of the residential real estate Zellow data and Census data in USA between 1996 and 2014.
+<img src="images/photo_zillow.png" width="400" height="200">
 
 ---
-[Wrangling Openstreetmaps Data using MongoDB](https://github.com/cyuancheng/Data-Wrangle-Openstreetmaps-Data/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Wrangling Openstreetmaps Data with MongoDB](https://github.com/cyuancheng/Data-Wrangle-Openstreetmaps-Data/)
 <br>Used MongoDB to wrangle, clean and explore the OpenStreetMap (OSM) data in Santa Barbara County, CA.<br>
 
+<img src="images/photo_mongodb.png" width="400" height="200">
+
 ---
-[Analyzing the NYC Subway Dataset with Python](https://nbviewer.jupyter.org/github/cyuancheng/Intro-Data-Science/blob/master/AnalyzingNYCSubwayDataset.ipynb)
+[Analyzing NYC Subway Dataset with Python](https://nbviewer.jupyter.org/github/cyuancheng/Intro-Data-Science/blob/master/AnalyzingNYCSubwayDataset.ipynb)
 <br>Used statistical analysis and exploratory data analysis to discover interesting patterns about the New York City Subway and discovered more people entering NYC Subway in rainy days.<br>
 
 <img src="images/photo_nyc.png" width="400" height="200">
