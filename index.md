@@ -1,8 +1,8 @@
-## Portfolio 
+# Portfolio 
 
 ---
 
-### Machine Learning
+## Machine Learning
 
 [Is a Higher Divorce Rate Among Celebrities?](https://github.com/cyuancheng/BlogPost_Celebrity_Divorce)
 <br>[\[Medium posting\]](https://medium.com/@cyuancheng/is-a-high-divorce-rate-among-celebrities-b87a9b9bdf28)
@@ -11,6 +11,8 @@
 <img src="images/photo_divorce.png" width="500" height="250">
 
 *Python package: requests, BeautifulSoup, pandas, numpy, nltk, re*
+
+I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 
 ---
 [AI Pipeline for Disaster Response](https://github.com/cyuancheng/Disaster-Response-Pipeline)
