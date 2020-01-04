@@ -10,7 +10,7 @@
 
 <img src="images/photo_divorce.png" width="500" height="250">
 
-*This text will be italic*
+*Python package: requests, BeautifulSoup, pandas, numpy, nltk, re*
 
 ---
 [AI Pipeline for Disaster Response](https://github.com/cyuancheng/Disaster-Response-Pipeline)
