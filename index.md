@@ -9,7 +9,7 @@
 
 <img src="images/photo_divorce.png" width="500" height="250">
 
-<span style="font-family:monospace; font-size:0.5em;">
+<span style="font-family:monospace; font-size:8px;">
   Python package: requests, BeautifulSoup, pandas, numpy, nltk, re
 </span>
 
