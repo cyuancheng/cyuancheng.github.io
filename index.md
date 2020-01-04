@@ -4,9 +4,7 @@
 
 ## Machine Learning
 
-[Is a Higher Divorce Rate Among Celebrities?](https://github.com/cyuancheng/BlogPost_Celebrity_Divorce)  
-
-[<img src="images/medium_logo.png" width="36" height="10">](https://medium.com/@cyuancheng/is-a-high-divorce-rate-among-celebrities-b87a9b9bdf28)
+[Is a Higher Divorce Rate Among Celebrities?](https://github.com/cyuancheng/BlogPost_Celebrity_Divorce)   [<img src="images/medium_logo.png" width="72" height="20">](https://medium.com/@cyuancheng/is-a-high-divorce-rate-among-celebrities-b87a9b9bdf28)
 
 [\[Medium posting\]](https://medium.com/@cyuancheng/is-a-high-divorce-rate-among-celebrities-b87a9b9bdf28)
 <br>Wrangled Wikipedia data of Hollyword's celebrities and used Logistic Regression and Random Forest to predict celebrities' divorce with 70% accuracy.
