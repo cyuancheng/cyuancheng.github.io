@@ -10,9 +10,9 @@
 
 <img src="images/photo_divorce.png" width="500" height="250">
 
-*Python package: requests, BeautifulSoup, pandas, numpy, nltk, re*
-
-I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
+<span style="font-family:monospace; font-size:1em;">
+  Python package: requests, BeautifulSoup, pandas, numpy, nltk, re
+</span>
 
 ---
 [AI Pipeline for Disaster Response](https://github.com/cyuancheng/Disaster-Response-Pipeline)
