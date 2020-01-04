@@ -12,7 +12,7 @@
 ---
 [AI Pipeline for Disaster Response](https://github.com/cyuancheng/Disaster-Response-Pipeline)
 <br>Created ETL and machine learning pipeline from real natural disaster message data. Developed a web app where a relief agent can input a new message to get classification result in a real time.<br>
-<img src="images/photo_disaster.png" width="400" height="200">
+<img src="images/photo_disaster.png" width="500" height="250">
 
 ---
 [Predict Customer Churn with PySpark](https://github.com/cyuancheng/Sparkify)
