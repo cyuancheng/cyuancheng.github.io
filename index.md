@@ -4,16 +4,16 @@
 
 ## Machine Learning
 
-[Is a Higher Divorce Rate Among Celebrities?](https://github.com/cyuancheng/BlogPost_Celebrity_Divorce)   [<img src="images/medium_logo.png" width="190" height="25">](https://medium.com/@cyuancheng/is-a-high-divorce-rate-among-celebrities-b87a9b9bdf28)
+[Is a Higher Divorce Rate Among Celebrities?](https://github.com/cyuancheng/BlogPost_Celebrity_Divorce)   [<img src="images/medium_logo.png" width="90" height="25">](https://medium.com/@cyuancheng/is-a-high-divorce-rate-among-celebrities-b87a9b9bdf28)
 
 Wrangled Wikipedia data of Hollyword's celebrities and used Logistic Regression and Random Forest to predict celebrities' divorce with 70% accuracy.
 
 <img src="images/photo_divorce.png" width="500" height="250">
 
-<span style="font-family:monospace; font-size:8px;">
+<!-- <span style="font-family:monospace; font-size:8px;">
   Python package: requests, BeautifulSoup, pandas, numpy, nltk, re
 </span>
-
+-->
 ---
 [AI Pipeline for Disaster Response](https://github.com/cyuancheng/Disaster-Response-Pipeline)
 <br>Created ETL and machine learning pipeline from real natural disaster message data. Developed a web app where a relief agent can input a new message to get classification result in a real time.
