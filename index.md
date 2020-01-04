@@ -16,24 +16,30 @@ Wrangled Wikipedia data of Hollyword's celebrities and used Logistic Regression 
 -->
 ---
 [AI Pipeline for Disaster Response](https://github.com/cyuancheng/Disaster-Response-Pipeline)
-<br>Created ETL and machine learning pipeline from real natural disaster message data. Developed a web app where a relief agent can input a new message to get classification result in a real time.
+
+Created ETL and ML pipeline from real natural disaster message data. Developed a web app where a relief agent can input a new message to get classification result in a real time.
 
 <img src="images/photo_disaster.png" width="500" height="250">
 
 ---
-[Predict Customer Churn with PySpark](https://github.com/cyuancheng/Sparkify)
-<br>[(Medium posting)](https://medium.com/@cyuancheng/use-machine-learning-to-predict-customer-churn-9281cc249c7a)
-<br>Prepossessed, cleaned, and transformed 250 Mb of customer data from music streaming platform using PySpark. Developed a predictive model from  feature engineering using Random Forest and Gradient Boosting Tree in Spark MLlib. Feature importance by the model suggested the customer's lifetime with the service is the strongest indicator for churn.<br>
+[Predict Customer Churn with PySpark](https://github.com/cyuancheng/Sparkify)   [<img src="images/medium_logo.png" width="90" height="25">](https://medium.com/@cyuancheng/use-machine-learning-to-predict-customer-churn-9281cc249c7a)
+
+Used PySpark to preprocess and transform 250 Mb of customer data from music streaming platform. Feature engineering using Random Forest and Gradient Boosting Tree suggested the customer's lifetime with the service is the strongest indicator for churn.
+
 <img src="images/photo_churn.png" width="500" height="250">
 
 ---
 [Finding Donors for CharityML (Supervised Learning)](https://github.com/cyuancheng/Finding-Donors-for-CharityML/blob/master/finding_donors.ipynb)
-<br>Built a machine learning model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.<br>
+
+Built a machine learning model to predicts whether an individual makes more than $50,000 and identify likely donors for a fictional non-profit organisation.<br>
+
 <img src="images/photo_donor.png" width="500" height="250">
 
 ---
 [Identify Customer Segments (Unsupervised Learning)](https://github.com/cyuancheng/Identify_Customer_Segments/blob/master/Identify_Customer_Segments.ipynb)
-<br>Used unsupervised learning (PCA and Kmeans) to identify segments of the population that form the core customer base for a mail-order sales company in Germany. By comparing general population and customers population, segments were identified that could be target for future marketing campaigns or to be considered outside of company interests.<br>
+
+Used unsupervised learning (PCA and Kmeans) to identify segments of the population that form the core customer base for a mail-order sales company in Germany. By comparing general population and customers population, the identified segments could be targets for future marketing campaigns or to be considered outside of company interests.
+
 <img src="images/photo_segment.png" width="500" height="250">
 
 ---
