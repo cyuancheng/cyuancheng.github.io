@@ -9,8 +9,7 @@
 <br>Wrangled Wikipedia data of Hollyword's celebrities and used Logistic Regression and Random Forest to predict celebrities' divorce with 70% accuracy.
 
 <img src="images/photo_divorce.png" width="500" height="250">
-
-test <span style="font-family:Papyrus; font-size:4em;">Udacity project</span>
+__tool: xxx__
 
 ---
 [AI Pipeline for Disaster Response](https://github.com/cyuancheng/Disaster-Response-Pipeline)
