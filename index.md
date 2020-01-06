@@ -70,9 +70,12 @@ Performed sentiment analysis on the Yelp review for Starbucks in New York City.
 
 ---
 
-[Key Analysis on Data Scientist Job Posting](/Project_7)
+[Key Analysis on Data Scientist Job Posting](/Project_7)  <- need to addd link
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+A small project to extract key words from job description of data scentist job posting in different categories.
+
+<img src="images/photo_job.png" width="500" height="250">
+
 
 ---
 
