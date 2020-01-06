@@ -46,12 +46,17 @@ Used unsupervised learning (PCA and Kmeans) to identify segments of the populati
 
 ### Deep Learning
 ---
-[Predict Stock Price with Buy or Sell Signal](/Project_4)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Predict Stock Price with Buy or Sell Signal](https://github.com/cyuancheng/Stock_Prediction/blob/master/ETF_QQQ_CrossSignal.ipynb)
+
+Built a LSTM model on stock data and technical indicators to predict market movement with 70% accuracy. This is a capstone project working together with AI enthusiasts of [the Princeton School of AI](https://www.meetup.com/Princeton-School-of-AI/) in summer 2019. My role in the team is to develop and refine the time-series model using Recurrent Neural Network (RNN). 
+
+<img src="images/photo_stock.png" width="500" height="250">
 
 ---
 [Lawn Weed Detector using Computer Vision](https://github.com/cyuancheng/Lawn_Weed)
+
 <br>Collected and labeled imaging data of common weeds from Google Image, and trained the data using Convolutional Neural Network (CNN) with 95% accuracy.<br>
+
 <img src="images/photo_weed.png" width="500" height="250">
 
 ---
@@ -66,6 +71,7 @@ Performed sentiment analysis on the Yelp review for Starbucks in New York City.
 ---
 
 [Key Analysis on Data Scientist Job Posting](/Project_7)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
