@@ -57,16 +57,15 @@ Used unsupervised learning (PCA and Kmeans) to identify segments of the populati
 ---
 ### Natural Language Processing
 
-[](/Project_6)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Sentiment Analysis on Yelp Review](https://github.com/cyuancheng/NLP_Yelp_review)
+
+Performed sentiment analysis on the Yelp review for Starbucks in New York City.
+
+<img src="images/photo_yelp.png" width="500" height="250">
 
 ---
-[Twitter review](/Project_7)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-
-[Yelp review](/Project_7)
+[Key Analysis on Data Scientist Job Posting](/Project_7)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
