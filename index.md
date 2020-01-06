@@ -50,7 +50,7 @@ Used unsupervised learning (PCA and Kmeans) to identify segments of the populati
 
 Built a LSTM model on stock data and technical indicators to predict market movement with 70% accuracy. This is a capstone project working together with AI enthusiasts of [the Princeton School of AI](https://www.meetup.com/Princeton-School-of-AI/) in summer 2019. My role in the team is to develop and refine the time-series model using Recurrent Neural Network (RNN). 
 
-<img src="images/photo_stock.png" width="500" height="250">
+<img src="images/photo_stock.jpg" width="500" height="250">
 
 ---
 [Lawn Weed Detector using Computer Vision](https://github.com/cyuancheng/Lawn_Weed)
