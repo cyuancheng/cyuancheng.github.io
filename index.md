@@ -43,9 +43,8 @@ Used unsupervised learning (PCA and Kmeans) to identify segments of the populati
 <img src="images/photo_segment.png" width="500" height="250">
 
 ---
-
 ### Deep Learning
----
+
 [Predict Stock Price with Buy or Sell Signal](https://github.com/cyuancheng/Stock_Prediction/blob/master/ETF_QQQ_CrossSignal.ipynb)
 
 Built a LSTM model on stock data and technical indicators to predict market movement with 70% accuracy. This is a capstone project working together with AI enthusiasts of [the Princeton School of AI](https://www.meetup.com/Princeton-School-of-AI/) in summer 2019. My role in the team is to develop and refine the time-series model using Recurrent Neural Network (RNN). 
@@ -80,6 +79,7 @@ A small project to extract key words from job description of data scentist job p
 ---
 
 ### Recommendation System
+
 [Buid a Recommendation System on IBM Cloud](https://github.com/cyuancheng/recommendation_with_IBM)
 <br>Analyzed the interactions that users have with articles on the IBM Watson Studio platform, and made recommendations of articles they will like<br>
 
@@ -88,17 +88,23 @@ A small project to extract key words from job description of data scentist job p
 ### Data Analysis / Visulization
 
 [Analyzing Zillow Housing Data with R](http://rpubs.com/cyuancheng/ZillowHousing)
+
 <br>Conducted exploratory data analysis using R to explore underlying relationships of the residential real estate Zellow data and Census data in USA between 1996 and 2014.<br>
+
 <img src="images/photo_zillow.png" width="500" height="250">
 
 ---
 [Wrangling Openstreetmaps Data with MongoDB](https://github.com/cyuancheng/Data-Wrangle-Openstreetmaps-Data/)
+
 <br>Used MongoDB to wrangle, clean and explore the OpenStreetMap (OSM) data in Santa Barbara County, CA.<br>
+
 <img src="images/photo_mongodb.jpg" width="500" height="250">
 
 ---
 [Analyzing NYC Subway Dataset with Python](https://nbviewer.jupyter.org/github/cyuancheng/Intro-Data-Science/blob/master/AnalyzingNYCSubwayDataset.ipynb)
+
 <br>Used statistical analysis and exploratory data analysis to discover interesting patterns about the New York City Subway and discovered more people entering NYC Subway in rainy days.<br>
+
 <img src="images/photo_nyc.png" width="500" height="250">
 
 
