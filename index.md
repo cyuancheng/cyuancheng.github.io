@@ -54,7 +54,7 @@ Built a LSTM model on stock data and technical indicators to predict market move
 ---
 [Lawn Weed Detector using Computer Vision](https://github.com/cyuancheng/Lawn_Weed)
 
-<br>Collected and labeled imaging data of common weeds from Google Image, and trained the data using Convolutional Neural Network (CNN) with 95% accuracy.<br>
+Collected and labeled imaging data of common weeds from Google Image, and trained the data using Convolutional Neural Network (CNN) with 95% accuracy.
 
 <img src="images/photo_weed.png" width="500" height="250">
 
@@ -69,7 +69,7 @@ Performed sentiment analysis on the Yelp review for Starbucks in New York City.
 
 ---
 
-[Key Analysis on Data Scientist Job Posting](/Project_7)  <- need to addd link
+[Key Analysis on Data Scientist Job Posting](/Project_7)
 
 A small project to extract key words from job description of data scentist job posting in different categories.
 
@@ -81,7 +81,8 @@ A small project to extract key words from job description of data scentist job p
 ### Recommendation System
 
 [Buid a Recommendation System on IBM Cloud](https://github.com/cyuancheng/recommendation_with_IBM)
-<br>Analyzed the interactions that users have with articles on the IBM Watson Studio platform, and made recommendations of articles they will like<br>
+
+Analyzed the interactions that users have with articles on the IBM Watson Studio platform, and made recommendations of articles they will like
 
 ---
 
@@ -89,21 +90,21 @@ A small project to extract key words from job description of data scentist job p
 
 [Analyzing Zillow Housing Data with R](http://rpubs.com/cyuancheng/ZillowHousing)
 
-<br>Conducted exploratory data analysis using R to explore underlying relationships of the residential real estate Zellow data and Census data in USA between 1996 and 2014.<br>
+Conducted exploratory data analysis using R to explore underlying relationships of the residential real estate Zellow data and Census data in USA between 1996 and 2014.
 
 <img src="images/photo_zillow.png" width="500" height="250">
 
 ---
 [Wrangling Openstreetmaps Data with MongoDB](https://github.com/cyuancheng/Data-Wrangle-Openstreetmaps-Data/)
 
-<br>Used MongoDB to wrangle, clean and explore the OpenStreetMap (OSM) data in Santa Barbara County, CA.<br>
+Used MongoDB to wrangle, clean and explore the OpenStreetMap (OSM) data in Santa Barbara County, CA.
 
 <img src="images/photo_mongodb.jpg" width="500" height="250">
 
 ---
 [Analyzing NYC Subway Dataset with Python](https://nbviewer.jupyter.org/github/cyuancheng/Intro-Data-Science/blob/master/AnalyzingNYCSubwayDataset.ipynb)
 
-<br>Used statistical analysis and exploratory data analysis to discover interesting patterns about the New York City Subway and discovered more people entering NYC Subway in rainy days.<br>
+Used statistical analysis and exploratory data analysis to discover interesting patterns about the New York City Subway and discovered more people entering NYC Subway in rainy days.
 
 <img src="images/photo_nyc.png" width="500" height="250">
 
