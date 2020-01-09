@@ -61,7 +61,7 @@ Collected and labeled imaging data of common weeds from Google Image, and traine
 ---
 ### Natural Language Processing
 
-[Sentiment Analysis on Yelp Review](https://github.com/cyuancheng/NLP_Yelp_review)
+[Sentiment Analysis on Yelp Review](https://github.com/cyuancheng/NLP_Yelp_review/blob/master/NLP_Yelp_Starbucks.ipynb)
 
 Performed sentiment analysis on the Yelp review for Starbucks in New York City.
 
