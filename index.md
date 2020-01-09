@@ -69,7 +69,7 @@ Performed sentiment analysis on the Yelp review for Starbucks in New York City.
 
 ---
 
-[Key Analysis on Data Scientist Job Posting](https://github.com/cyuancheng/Job_Description_Screen/blob/master/JobDescriptionScreen.ipynb)
+[Keyword Analysis on Data Scientist Job Posting](https://github.com/cyuancheng/Job_Description_Screen/blob/master/JobDescriptionScreen.ipynb)
 
 A small project to extract key words from job description of data scentist job posting in different categories.
 
